@@ -2,4 +2,4 @@
 SlowLoris Attack Script
 
 <img src='https://img.shields.io/badge/Working-Unsure-f39f37'>
-open for testing
+<img src='https://img.shields.io/badge/Open%20for-Testing-00ff00'>
