@@ -14,7 +14,7 @@ def dosAtck(url, repeat):
     }
 
     for _ in range(repeat):
-        g(url, headers=Atckheaders)
+        get(url, headers=Atckheaders)
 
 def main():
     # Create an ArgumentParser object
